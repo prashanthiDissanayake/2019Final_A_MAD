@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MAD-Paper-A</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">Register</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_year">Movie Year</string>
+    <string name="add">ADD</string>
+    <string name="movies">Movies</string>
+    <string name="rate">Rate</string>
+    <string name="comments">Comments</string>
+    <string name="submit">SUBMIT</string>
+    <string name="current_rating">Current Rating</string>
+    <string name="commnets">Commnets</string>
+</resources>
